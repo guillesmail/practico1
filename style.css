@@ -1,0 +1,47 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    
+
+}
+
+
+.nav_contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 4rem;
+    width: 100%;
+}
+
+img{
+    height: 2.5rem;
+}
+.menu{
+    display: flex;
+}
+
+.menu_boton{
+    padding: 1rem;
+
+}
+.sing_regis{
+    display: flex;
+    align-items: center;
+    padding: 1rem 2rem 1rem 2rem;
+}
+
+.btn{
+    color: white;
+    background-color: #5e60f2;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 4px;
+    border-color: transparent;
+    letter-spacing: 2px;
+    border-bottom: 0px;
+    margin-left: 2rem;
+
+}
+
